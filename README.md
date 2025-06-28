@@ -23,8 +23,8 @@ This Power BI dashboard includes the following key insights:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](images/Screenshot_2025-02-24_215322.png)
-![Dashboard Screenshort](images/Screenshot_2025-02-24_215345.png)
+![Dashboard Screenshot](images/dashboard1)
+![Dashboard Screenshort](images/dashboard2)
 
 
 
