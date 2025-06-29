@@ -18,7 +18,7 @@ This Power BI dashboard includes the following key insights:
 
 - `AIFlow_Sales_Dashboard.pbix` – The main Power BI dashboard file.
 - `images/` – Folder containing preview screenshots of the dashboard.
-- `data/` *(optional)* – Sample or dummy data used for the dashboard (if shareable).
+- `data/`– Sample or dummy data used for the dashboard .
 - `README.md` – This file.
 
 ## 🖼️ Dashboard Preview
@@ -40,7 +40,7 @@ To view or edit the dashboard:
 
 ## ⚠️ Disclaimer
 
-- The data used in this dashboard is **dummy/mock data** (if applicable).
+- The data used in this dashboard is **dummy/mock data** .
 - Do not use this dashboard for real business decisions unless based on verified company data.
 
 ## 📬 Contact
